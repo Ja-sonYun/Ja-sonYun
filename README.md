@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 Junior Full stack developer (Vue/React, Laravel/Express, apache/nginx, mysql, AWS).   
-Usually Study Machine Learning and Reverse Engineering.   
+Usually Study Machine Learning and Reverse Engineering.     
+Always Develop using Vim & tmux.
 
 > [My Blog](https://abex.dev)  
-** Develop using Vim & tmux. **
 
 <!--
 **Ja-sonYun/Ja-sonYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
