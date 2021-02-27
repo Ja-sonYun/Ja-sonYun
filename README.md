@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Junior Full stack developer (Vue/React, Laravel/Express).   
+Junior Full stack developer (Vue/React, Laravel/Express, apache/nginx, mysql, AWS).   
 Usually Study Machine Learning and Reverse Engineering.
 
 >> [My Blog](https://abex.dev)
