@@ -2,7 +2,7 @@
 
 Junior Full stack developer (Vue/React, Laravel/Express, apache/nginx, mysql, AWS).   
 Usually Study Machine Learning and Reverse Engineering.     
-Always Develop using Vim & tmux.
+Always develop with Vim & tmux.
 
 > [My Blog](https://abex.dev)  
 
