@@ -1,6 +1,6 @@
 ### 
 
-> [My Blog](https://abex.dev) | [source code](https://github.com/Ja-sonYun/abex.dev)    
+> [My Blog](https://abex.dev) | [source code(with example gifs)](https://github.com/Ja-sonYun/abex.dev)    
 my projects are listed on the bottom of my blog.
 and sample gifs are on each repository.
 <!--
