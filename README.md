@@ -1,8 +1,4 @@
-### Hi there 👋
-
-Junior Full stack developer (Vue/React, Laravel/Express, apache/nginx, mysql, AWS).   
-Usually Study Machine Learning and Reverse Engineering.     
-Develop with Vim & tmux.
+### 
 
 > [My Blog](https://abex.dev) | [source code](https://github.com/Ja-sonYun/abex.dev)  
 
