@@ -1,6 +1,6 @@
 ### 
 
-> [My Blog](https://abex.dev) | [source code](https://github.com/Ja-sonYun/abex.dev)    
+> [My Blog](https://abex.dev)
 
 
 <!--
