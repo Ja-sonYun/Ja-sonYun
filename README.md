@@ -2,8 +2,6 @@
 
 > [My Blog](https://abex.dev)  
 
-Mainly study machine learning in university, but also study network, linux and reverse engineering.
-
 <!--
 **Ja-sonYun/Ja-sonYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
