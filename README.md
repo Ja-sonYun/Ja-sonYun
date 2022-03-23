@@ -1,6 +1,6 @@
-### 
 
-> [My Blog](https://abex.dev)  
+
+ML, Web, Linux, IOT, Security
 
 <!--
 **Ja-sonYun/Ja-sonYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
