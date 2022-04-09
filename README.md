@@ -1,4 +1,5 @@
-
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja-sonyun&show_icons=true&theme=compact)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja-sonyun&layout=compact)](https://github.com/ja-sonyun/github-readme-stats)
 
 ML, Web, Linux, IOT, Security
 
