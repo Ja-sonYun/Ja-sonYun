@@ -1,7 +1,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja-sonyun&layout=compact)](https://github.com/ja-sonyun/github-readme-stats)
 
-ML, Web, Linux, IOT, Security
+ML, Web, Linux, Embedded, Security
 
 <!--
 **Ja-sonYun/Ja-sonYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
